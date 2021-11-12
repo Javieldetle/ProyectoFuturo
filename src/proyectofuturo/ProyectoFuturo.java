@@ -16,7 +16,7 @@ public class ProyectoFuturo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        System.out.println("mi nombre es Javier");
         System.out.println("Estudiante : " + args[0]);
         System.out.println("Tengo " + args[1] + " modulos formativos en curso");
         System.out.println("dedico " + args[2] + " hs semanales al estudio");
