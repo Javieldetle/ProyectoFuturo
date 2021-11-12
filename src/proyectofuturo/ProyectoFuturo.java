@@ -37,5 +37,5 @@ public class ProyectoFuturo {
         return "Ideal. Trabajas los contenidos en casa.";    
             }
        
-}
+
 
